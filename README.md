@@ -1,6 +1,6 @@
 # 📝 TO-DO App
 
-A sleek and straightforward TO-DO app that helps you manage your daily tasks effortlessly. The app features a user-friendly interface with real-time updates and an elegant design.
+A sleek and straightforward TO-DO app that helps you manage your daily tasks effortlessly. The app features a user-friendly interface with real-time update and an elegant design.
 
 ---
 
@@ -10,6 +10,11 @@ A sleek and straightforward TO-DO app that helps you manage your daily tasks eff
 - ➕ **Task Management:** Add tasks to a visually appealing, dynamic list.
 - 🎨 **Responsive Design:** Clean layout with hover effects for an enhanced user experience.
 - ✨ **Interactive UI:** Simple input field and button for task addition.
+
+---
+## **🚀 Demo**
+
+*([Include a demo link or embed a live preview](https://eisamehmood.github.io/To-Do-page/))*
 
 ---
 
